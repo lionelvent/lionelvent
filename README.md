@@ -42,15 +42,6 @@
 
 ---
 
-## 📊 Mes statistiques GitHub
-
-> 💡 **Je peux personnaliser ces cartes si tu me donnes ton pseudo GitHub.**
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 🧩 Projets mis en avant
 
 **
