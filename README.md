@@ -19,10 +19,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,vue,nuxt,nodejs,tailwind)](https://skillicons.dev)
 
 ### 🔹 Backend & CMS
-[![My Skills](https://skillicons.dev/icons?i=strapi,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=strapi,webflow,postgres,mysql)](https://skillicons.dev)
 
 ### 🔹 Outils & DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,phpstorm,webstorm,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,phpstorm,webstorm,vscode,figma,)](https://skillicons.dev)
 
 ---
 
