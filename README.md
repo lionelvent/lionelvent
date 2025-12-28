@@ -5,7 +5,7 @@
 
 ## 🚀 À propos de moi
 
-- 🔧 Expert **FullStack** **Php**, **SQL**, **HTML**, **CSS**, **Nuxt**, **Vue.js**, **i18n**, **SEO**, **SSR**
+- 🔧 Expert **FullStack** : **PHP**, **SQL**, **HTML**, **CSS**, **JavaScript**, **Nuxt**, **Vue.js**, **i18n**, **SEO**, **SSR**
 - 🌍 Passionné par les **applications web**, les **performances**, et les **workflows maintenables**
 - 🧩 J’adore structurer, automatiser, documenter et rendre les projets **scalables**
 - 📦 Expérimenté en **solutions web**, **UX**, **accessibilité**, et **intégration ERP**
@@ -22,11 +22,16 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,webflow,wordpress)](https://skillicons.dev)
 
 ### 🔹 Outils & DevOps
-[![My Skills](https://skillicons.dev/icons?i=github,phpstorm,webstorm,vscode,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,phpstorm,webstorm,vscode,figma)](https://skillicons.dev)
 
 ---
 
 ## 🎨 Badges de compétences
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -39,6 +44,8 @@
 
 ## 📊 Mes statistiques GitHub
 
+> 💡 **Je peux personnaliser ces cartes si tu me donnes ton pseudo GitHub.**
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
 
@@ -46,6 +53,7 @@
 
 ## 🧩 Projets mis en avant
 
+**
 
 ---
 
@@ -53,8 +61,6 @@
 
 - ✉️ Email : **lv@siweb.fr**
 - 💼 LinkedIn : **https://www.linkedin.com/in/lionelventurini**
-- 🌐 Portfolio : **[(à ajouter)](https://agence.siweb.fr)**
+- 🌐 Portfolio : **https://agence.siweb.fr**
 
 ---
-
-⭐ *N’hésite pas à me demander une version plus minimaliste, plus fun, plus orientée freelance, ou même une version animée avec GIFs et sections dynamiques.*
