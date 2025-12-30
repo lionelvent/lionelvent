@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Langages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,vue,nuxt,nodejs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,php,twig,vue,nuxt)](https://skillicons.dev)
 
 ### 🔹 Backend & CMS
 [![My Skills](https://skillicons.dev/icons?i=php,nodejs,postgres,mysql,webflow,wordpress)](https://skillicons.dev)
