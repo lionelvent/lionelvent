@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c'est Lionel 👋</h1>
-<h3 align="center">Développeur FullStack</h3>
+<h3 align="center">Développeur sénior FullStack / Chef de projet web</h3>
 
 ---
 
