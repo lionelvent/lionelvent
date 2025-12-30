@@ -8,7 +8,7 @@
 - 🔧 Expert **FullStack** : **PHP**, **SQL**, **HTML**, **CSS**, **JavaScript**, **Nuxt**, **Vue.js**, **i18n**, **SEO**, **SSR**
 - 🌍 Passionné par les **applications web**, les **performances**, et les **workflows maintenables**
 - 🧩 J’adore structurer, automatiser, documenter et rendre les projets **scalables**
-- 📦 Expérimenté en **solutions web**, **UX**, **accessibilité**, et **intégration ERP**
+- 📦 Expérimenté en **solutions web**, **UX**, **SEO**, et **intégration ERP**
 - 🧠 Méthodique, curieux, orienté qualité et expérience utilisateur
 
 ---
