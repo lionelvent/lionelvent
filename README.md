@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,php,vue,nuxt)](https://skillicons.dev)
 
 ### 🔹 Backend & CMS
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,postgres,mysql,mariadb,webflow,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,postgres,mysql,webflow,wordpress)](https://skillicons.dev)
 
 ### 🔹 Outils & DevOps
 [![My Skills](https://skillicons.dev/icons?i=github,phpstorm,webstorm,vscode,figma)](https://skillicons.dev)
